@@ -1,0 +1,5 @@
+# Build output. It is attached to a Release as an asset, never committed —
+# see the README. A binary in git is in the history forever, and the next
+# version does not replace it, it doubles it.
+*.exe
+publish/
